@@ -1,13 +1,13 @@
-🎬 IMDB Movie Review Sentiment Analysis
+## 🎬 IMDB Movie Review Sentiment Analysis
 This project implements a deep learning model to classify IMDB movie reviews as positive or negative using Recurrent Neural Networks (RNNs). An interactive Streamlit web app is also developed for real-time sentiment prediction.
 
-📌 Features
+## 📌 Features
 🔹 Built a deep learning model with Embedding layers and Simple RNN for binary sentiment classification.
 🔹 Preprocessed text data using word index encoding and padded sequences to ensure uniform input length.
 🔹 Developed an interactive Streamlit app for real-time sentiment prediction on user-entered reviews.
 
 
-🛠️ Tech Stack
+## 🛠️ Tech Stack
 Python 3
 TensorFlow / Keras
 NumPy, Pandas
@@ -15,7 +15,7 @@ Streamlit
 IMDB Dataset (Keras built-in)
 
 
-🚀 Installation & Usage
+## 🚀 Installation & Usage
 1.Clone the repository:-
 git clone https://github.com/your-username/imdb-sentiment-analysis.git
 cd imdb-sentiment-analysis
@@ -28,7 +28,7 @@ streamlit run app.py
 
 4.Enter your own movie review and get real-time sentiment prediction 🎉
 
-📊 Model Workflow
+## 📊 Model Workflow
 1.Data Preprocessing
    -Word index encoding
    -Padding sequences
