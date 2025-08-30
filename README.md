@@ -17,8 +17,7 @@ IMDB Dataset (Keras built-in)
 
 ## 🚀 Installation & Usage
 1.Clone the repository:-
-git clone https:[//github.com/your-username/imdb-sentiment-analysis.git](https://github.com/abhikgpian/IMDB-Movie-Review-Sentiment-Analysis.git)
-cd imdb-sentiment-analysis
+git clone https:https://github.com/abhikgpian/IMDB-Movie-Review-Sentiment-Analysis.git
 
 2.Install dependencies:-
 pip install -r requirements.txt
